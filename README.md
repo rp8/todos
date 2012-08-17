@@ -1,20 +1,20 @@
-todos
+## todos
 =====
 
 TODOs - Dust client side template with server REST api and based on http://documentcloud.github.com/backbone/examples/todos
 
-required modules:
+## Required modules:
 
-  node
-	express
-	underscore
-	backbone
-	dustjs-linkedin
-	jquery
+* node
+*	express
+*	underscore
+*	backbone
+*	dustjs-linkedin
+*	jquery
 
-1. compile dust templates
+### Compile dust templates
 
 $ ./compile
 
-2. run server
+### run server
 $ node server
