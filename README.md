@@ -11,3 +11,10 @@ required modules:
 	backbone
 	dustjs-linkedin
 	jquery
+
+1. compile dust templates
+
+$ ./compile
+
+2. run server
+$ node server
