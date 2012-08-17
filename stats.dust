@@ -1,0 +1,5 @@
+{#done} 
+<a id="clear-completed">Clear {done} completed {@if cond="{done} == 1"} item {:else} items></a>{/if}
+{:else}
+<div class="todo-count"><b>{remaining}</b> {@if cond="{remaining} == 1"} item {:else} items left</div>{/if}
+{/done}

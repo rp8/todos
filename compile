@@ -1,0 +1,2 @@
+dustc item.dust public/js/item.js
+dustc stats.dust public/js/stats.js

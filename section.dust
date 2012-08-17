@@ -1,0 +1,5 @@
+    <section id="main">
+      <input id="toggle-all" type="checkbox">
+      <label for="toggle-all">Mark all as completed</label>
+      <ul id="todo-list"></ul>
+    </section>
