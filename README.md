@@ -16,5 +16,5 @@ TODOs - Dust client side template with server REST api and based on http://docum
 
 $ ./compile
 
-### run server
+### Run server
 $ node server
