@@ -7,6 +7,7 @@ TODOs - Dust client side template with server REST api and based on http://docum
 
 * node
 *	express
+* consolidate
 *	underscore
 *	backbone
 *	dustjs-linkedin
