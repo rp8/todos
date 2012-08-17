@@ -1,7 +1,7 @@
 todos
 =====
 
-TODOs - Based on http://documentcloud.github.com/backbone/examples/todos
+TODOs - Dust client side template with server REST api and based on http://documentcloud.github.com/backbone/examples/todos
 
 required modules:
 
