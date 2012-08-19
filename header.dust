@@ -1,5 +1,3 @@
-    <header>
-      <h1>TODO List</h1>
-      <input id="new-todo" type="text" placeholder="What needs to be done?">
-    </header>
-
+<div id="header">
+  <span>TODO List</span>
+</div>

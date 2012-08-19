@@ -1,7 +1,7 @@
 ## todos
 =====
 
-TODOs - Dust client side template with server REST api and based on http://documentcloud.github.com/backbone/examples/todos
+TODOs - Backbone/Dust client side template with server REST api and based on http://documentcloud.github.com/backbone/examples/todos
 
 ## Required modules:
 
@@ -12,6 +12,7 @@ TODOs - Dust client side template with server REST api and based on http://docum
 *	backbone
 *	dustjs-linkedin
 *	jquery
+* iscroll
 
 ### Compile dust templates
 

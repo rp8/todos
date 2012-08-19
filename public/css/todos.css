@@ -6,65 +6,48 @@ body {
 
 body {
 	font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
-	line-height: 1.4em;
-	background: #eeeeee;
-	color: #333333;
-	width: 520px;
+	line-height: 1.2em;
+	background: #333;
+	color: #ffffff;
 	margin: 0 auto;
 	-webkit-font-smoothing: antialiased;
 }
 
-#todoapp {
-	background: #fff;
-	padding: 20px;
-	margin-bottom: 40px;
-	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 6px 0;
-	-moz-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 6px 0;
-	-ms-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 6px 0;
-	-o-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 6px 0;
-	box-shadow: rgba(0, 0, 0, 0.2) 0 2px 6px 0;
-	-webkit-border-radius: 0 0 5px 5px;
-	-moz-border-radius: 0 0 5px 5px;
-	-ms-border-radius: 0 0 5px 5px;
-	-o-border-radius: 0 0 5px 5px;
-	border-radius: 0 0 5px 5px;
+#main {
+  position:absolute; z-index:1;
+  width:100%;
+	display: none;
+  background-color:#fafafa;
+  color:#333;
 }
 
-#todoapp h1 {
-	font-size: 36px;
-	font-weight: bold;
-	text-align: center;
-	padding: 0 0 10px 0;
-}
-
-#todoapp input[type="checkbox"] {
+#main input[type="checkbox"] {
 	width: 20px;
 	height: 20px;
-	padding-right: 5px;
+  margin: 5px 5px 5px 10px;
 }
 
-#todoapp input[type="text"] {
-	width: 466px;
-	font-size: 24px;
+#entry {
+  position:absolute; z-index:1;
+  top:28px; left:0;
+  height:40px;
+  width:100%;
+}
+
+#entry input[type="text"] {
+  width:100%;
+	font-size: 20px;
 	font-family: inherit;
-	line-height: 1.4em;
+  height:40px;
 	border: 0;
 	outline: none;
-	padding: 6px;
+	padding:2px 0px 2px 2px; 
+  margin:0px 0px 0px 0px;
 	border: 1px solid #999999;
-	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 1px 2px 0 inset;
-	-moz-box-shadow: rgba(0, 0, 0, 0.2) 0 1px 2px 0 inset;
-	-ms-box-shadow: rgba(0, 0, 0, 0.2) 0 1px 2px 0 inset;
-	-o-box-shadow: rgba(0, 0, 0, 0.2) 0 1px 2px 0 inset;
-	box-shadow: rgba(0, 0, 0, 0.2) 0 1px 2px 0 inset;
 }
 
-#todoapp input::-webkit-input-placeholder {
+#entry input::-webkit-input-placeholder {
 	font-style: italic;
-}
-
-#main {
-	display: none;
 }
 
 #todo-list {
@@ -74,10 +57,14 @@ body {
 }
 
 #todo-list li {
-	padding: 18px 20px 18px 0;
 	position: relative;
+	padding: 5px 5px 5px 0px;
 	font-size: 24px;
 	border-bottom: 1px solid #cccccc;
+}
+
+#todo-list .view label {
+	padding: 5px 5px 5px 5px;
 }
 
 #todo-list li:last-child {
@@ -92,12 +79,12 @@ body {
 #todo-list .destroy {
 	position: absolute;
 	right: 5px;
-	top: 20px;
+	top: 6px;
 	display: none;
 	cursor: pointer;
 	width: 20px;
 	height: 20px;
-	background: url(destroy.png) no-repeat;
+	background: url(../image/destroy.png) no-repeat;
 }
 
 #todo-list li:hover .destroy {
@@ -120,8 +107,8 @@ body {
 
 #todo-list li.editing .edit {
 	display: block;
-	width: 444px;
-	padding: 13px 15px 14px 20px;
+	width: 95%;
+	padding: 5px 5px 5px 5px;
 	margin: 0;
 }
 
@@ -137,22 +124,6 @@ body {
 	display: none;
 }
 
-#todoapp footer {
-	display: none;
-	margin: 0 -20px -20px -20px;
-	overflow: hidden;
-	color: #555555;
-	background: #f4fce8;
-	border-top: 1px solid #ededed;
-	padding: 0 20px;
-	line-height: 37px;
-	-webkit-border-radius: 0 0 5px 5px;
-	-moz-border-radius: 0 0 5px 5px;
-	-ms-border-radius: 0 0 5px 5px;
-	-o-border-radius: 0 0 5px 5px;
-	border-radius: 0 0 5px 5px;
-}
-
 #clear-completed {
 	float: right;
 	line-height: 20px;
@@ -160,7 +131,7 @@ body {
 	background: rgba(0, 0, 0, 0.1);
 	color: #555555;
 	font-size: 11px;
-	margin-top: 8px;
+	margin-top: 2px;
 	margin-bottom: 8px;
 	padding: 0 10px 1px;
 	cursor: pointer;
@@ -190,28 +161,10 @@ body {
 	top: 1px;
 }
 
+#todo-count {
+  padding: 5px 0px 0px 0px;
+}
+
 #todo-count span {
 	font-weight: bold;
-}
-
-#instructions {
-	margin: 10px auto;
-	color: #777777;
-	text-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
-	text-align: center;
-}
-
-#instructions a {
-	color: #336699;
-}
-
-#credits {
-	margin: 30px auto;
-	color: #999;
-	text-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
-	text-align: center;
-}
-
-#credits a {
-	color: #888;
 }

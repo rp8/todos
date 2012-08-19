@@ -1,5 +1,6 @@
 
 var TodoApp = {};
+
 $(function() {
 TodoApp.Models = (function(){
 

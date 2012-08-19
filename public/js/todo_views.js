@@ -10,43 +10,45 @@ TodoApp.Views = (function(){
 			"click #toggle-all": "toggleAllComplete"
 		},
 
-		initialize: function() {
-
-			this.input = this.$("#new-todo");
-			this.allCheckbox = this.$("#toggle-all")[0];
+    initialize: function() {
+      this.input = this.$("#new-todo");
+      this.allCheckbox = this.$("#toggle-all")[0];
+      this.main = this.$('#main');
+      this.todolist = this.$('#todo-list');
+      this.footer = this.$('#footer');
 
 			TodoApp.Todos.on('add', this.addOne, this);
 			TodoApp.Todos.on('reset', this.addAll, this);
 			TodoApp.Todos.on('all', this.render, this);
 
-			this.footer = this.$('footer');
-			this.main = $('#main');
-
 			TodoApp.Todos.fetch();
 		},
+
+    refresh: function(callback) {
+      TodoApp.Todos.reset();
+      TodoApp.Todos.fetch();
+      this.todolist.empty();
+      callback();
+    },
 
 		render: function() {
 			var done = TodoApp.Todos.done().length;
 			var remaining = TodoApp.Todos.remaining().length;
 
-			if (TodoApp.Todos.length) {
-				var that = this;
-				dust.render('stats.dust', {done: done, remaining: remaining}, function(err, out) {
-					that.main.show();
-					that.footer.show();
-					that.footer.html(out);
-				});
-			} else {
-				this.main.hide();
-				this.footer.hide();
-			}
+			var that = this;
+			dust.render('stats.dust', {done: done, remaining: remaining}, function(err, out) {
+				that.main.show();
+				that.footer.show();
+				that.footer.html(out);
+			});
 
-			this.allCheckbox.checked = !remaining;
+      if (remaining > 0)
+			  this.allCheckbox.checked = !remaining;
 		},
 
 		addOne: function(todo) {
 			var view = new TodoView({model: todo});
-			this.$("#todo-list").append(view.render().el);
+			this.$('#todo-list').append(view.render().el);
 		},
 
 		addAll: function() {
@@ -133,5 +135,5 @@ TodoApp.Views = (function(){
 
 })();
 
-var App = new TodoApp.Views.AppView;
+App = new TodoApp.Views.AppView;
 });
