@@ -1,5 +1,0 @@
-<div id="input">
-  <input id="new-todo" type="text" placeholder="What needs to be done?">
-  <input id="toggle-all" type="checkbox">
-  <label for="toggle-all">Mark all as completed</label>
-</div>
