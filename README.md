@@ -3,6 +3,9 @@
 
 TODOs - Backbone/Dust client side template with server REST api and based on http://documentcloud.github.com/backbone/examples/todos
 
+## Live Demo 
+http://meebike:3000
+
 ## Required modules:
 
 * node
