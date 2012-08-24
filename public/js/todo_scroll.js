@@ -1,16 +1,9 @@
-var myScroll,
-  pullDownEl, pullDownOffset,
-  pullUpEl, pullUpOffset,
-  generatedCount = 0;
+var myScroll, pullDownEl, pullDownOffset;
 
 function pullDownAction () {
-    
   App.refresh(function() {
     myScroll.refresh();  
   });
-}
-
-function pullUpAction () {
 }
 
 function loaded() {
@@ -19,8 +12,14 @@ function loaded() {
   
   myScroll = new iScroll('wrapper', {
     zoom: false,
-    useTransition: true,
+    useTransition: false,
     topOffset: pullDownOffset,
+    onBeforeScrollSelect: function(e) {
+      var nodeType = e.explicitOriginalTarget ? e.explicitOriginalTarget.nodeName.toLowerCase() :
+        (e.target ? e.target.nodeName.toLowerCase() : ''); 
+      if (nodeType != 'select' && nodeType != 'input' && nodeType != 'textarea')
+        e.preventDefault();
+    },
     onRefresh: function () {
       if (pullDownEl.className.match('loading')) {
         pullDownEl.className = '';
@@ -51,4 +50,3 @@ function loaded() {
 }
 
 document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
-document.addEventListener('DOMContentLoaded', function () { setTimeout(loaded, 200); }, false);

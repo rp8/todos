@@ -5,54 +5,108 @@ body {
 }
 
 body {
-	font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 1.2em;
 	background: #333;
-	color: #ffffff;
 	margin: 0 auto;
 	-webkit-font-smoothing: antialiased;
 }
 
+#todoapp {
+  position:absolute;z-index:2;
+  top:30px;
+  width:100%;
+  height:100%;
+}
+
+#header {
+  position:absolute;z-index:2;
+  top:0px; left:0;
+  width:100%;
+  height:30px;
+  line-height:30px;
+  font-weight: bold;
+  text-shadow: 0 1px 1px #335413; 
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#74b042), to(#56A00E)); /* Saf4+, Chrome */
+  background-image: -webkit-linear-gradient(#74b042, #56A00E); /* Chrome 10+, Saf5.1+ */
+  background-image:    -moz-linear-gradient(#74b042, #56A00E); /* FF3.6 */
+  background-image:     -ms-linear-gradient(#74b042, #56A00E); /* IE10 */
+  background-image:      -o-linear-gradient(#74b042, #56A00E); /* Opera 11.10+ */
+  background-image:         linear-gradient(#74b042, #56A00E);    
+
+  color:#eee;
+  font-size:20px;
+  text-align:center;
+}
+
+#header a {
+  color:#f3f3f3;
+  text-decoration:none;
+  font-weight:bold;
+  text-shadow:0 -1px 0 rgba(0,0,0,0.5);
+}
+
+#status {
+  position:absolute;z-index:2;
+  top:21px; left:0;
+  padding:0;
+  width:100%;
+  height:25px;
+  background: #74b042;
+  color:#fff;
+  font-weight: bold;
+  text-shadow: 0 1px 1px #335413; 
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#74b042), to(#56A00E)); /* Saf4+, Chrome */
+  background-image: -webkit-linear-gradient(#74b042, #56A00E); /* Chrome 10+, Saf5.1+ */
+  background-image:    -moz-linear-gradient(#74b042, #56A00E); /* FF3.6 */
+  background-image:     -ms-linear-gradient(#74b042, #56A00E); /* IE10 */
+  background-image:      -o-linear-gradient(#74b042, #56A00E); /* Opera 11.10+ */
+  background-image:         linear-gradient(#74b042, #56A00E);    
+}
+
 #main {
-  position:absolute; z-index:1;
+  position:absolute;z-index:2;
+  top:45px; left:0px;
   width:100%;
 	display: none;
   background-color:#fafafa;
   color:#333;
 }
 
-#main input[type="checkbox"] {
+#toggle-all {
 	width: 20px;
 	height: 20px;
-  margin: 5px 5px 5px 10px;
+  margin: 10px 5px 5px 10px;
+	font-size: 20px;
 }
 
-#entry {
-  position:absolute; z-index:1;
-  top:28px; left:0;
-  height:40px;
-  width:100%;
+.view input[type="checkbox"] {
+	width: 20px;
+	height: 20px;
+  margin: 5px 5px 0px 10px;
+	font-size: 20px;
 }
 
-#entry input[type="text"] {
-  width:100%;
+#main label {
+}
+
+#main input[type="text"] {
+  width:90%;
 	font-size: 20px;
 	font-family: inherit;
-  height:40px;
-	border: 0;
-	outline: none;
-	padding:2px 0px 2px 2px; 
-  margin:0px 0px 0px 0px;
+  height:22px;
+	padding:2px 2px 2px 2px; 
+  margin:5px 10px 0px 10px;
 	border: 1px solid #999999;
 }
 
-#entry input::-webkit-input-placeholder {
+#main input::-webkit-input-placeholder {
 	font-style: italic;
 }
 
 #todo-list {
-	margin: 10px 0;
-	padding: 0;
+	margin:0;
+	padding:0;
 	list-style: none;
 }
 
@@ -76,10 +130,39 @@ body {
 	text-decoration: line-through;
 }
 
+#todo-list .change {
+	position: relative;
+  float:right;
+  margin-right:35px;
+	display: none;
+	cursor: pointer;
+	width: 20px;
+	height: 20px;
+	background: url(../image/edit.jpg) no-repeat;
+  background-size: 20px 20px;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  filter: grayscale(100%); 
+}
+
+#todo-list li:hover .change {
+  display: block;
+}
+
+#todo-list .change:hover {
+-webkit-filter: grayscale(0%);
+-moz-filter: grayscale(0%);
+-o-filter: grayscale(0%);
+-ms-filter: grayscale(0%);
+filter: grayscale(0%); 
+}
+
 #todo-list .destroy {
-	position: absolute;
-	right: 5px;
-	top: 6px;
+	position: relative;
+  float:right;
+  margin-right:5px;
 	display: none;
 	cursor: pointer;
 	width: 20px;
@@ -107,9 +190,9 @@ body {
 
 #todo-list li.editing .edit {
 	display: block;
-	width: 95%;
-	padding: 5px 5px 5px 5px;
-	margin: 0;
+	width: 98%;
+	padding: 2px 2px 2px 2px;
+	margin: 2px 5px 5px 2px;
 }
 
 #todo-list li.editing .view {
@@ -163,6 +246,7 @@ body {
 
 #todo-count {
   padding: 5px 0px 0px 0px;
+  text-align:center;
 }
 
 #todo-count span {

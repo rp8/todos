@@ -1,4 +1,4 @@
-$(function() {
+(function() {
 TodoApp.Views = (function(){
   var AppView = Backbone.View.extend({
 
@@ -6,16 +6,18 @@ TodoApp.Views = (function(){
 
 		events: {
 			"keypress #new-todo":  "createOnEnter",
+			"click #new-todo":  "focus1",
+			"touchstart input":  "focus2",
 			"click #clear-completed": "clearCompleted",
 			"click #toggle-all": "toggleAllComplete"
 		},
 
     initialize: function() {
-      this.input = this.$("#new-todo");
-      this.allCheckbox = this.$("#toggle-all")[0];
       this.main = this.$('#main');
+      this.newtodo = this.$("#new-todo");
+      this.allCheckbox = this.$("#toggle-all")[0];
       this.todolist = this.$('#todo-list');
-      this.footer = this.$('#footer');
+      this.status = this.$('#status');
 
 			TodoApp.Todos.on('add', this.addOne, this);
 			TodoApp.Todos.on('reset', this.addAll, this);
@@ -25,10 +27,14 @@ TodoApp.Views = (function(){
 		},
 
     refresh: function(callback) {
-      TodoApp.Todos.reset();
-      TodoApp.Todos.fetch();
       this.todolist.empty();
-      callback();
+      TodoApp.Todos.fetch(
+        {
+          success: function(model, res) {
+            callback.call();
+          }
+        }
+      );
     },
 
 		render: function() {
@@ -38,12 +44,11 @@ TodoApp.Views = (function(){
 			var that = this;
 			dust.render('stats.dust', {done: done, remaining: remaining}, function(err, out) {
 				that.main.show();
-				that.footer.show();
-				that.footer.html(out);
+				that.status.show();
+				that.status.html(out);
 			});
 
-      if (remaining > 0)
-			  this.allCheckbox.checked = !remaining;
+			this.allCheckbox.checked = !remaining;
 		},
 
 		addOne: function(todo) {
@@ -55,12 +60,15 @@ TodoApp.Views = (function(){
 			TodoApp.Todos.each(this.addOne);
 		},
 
+    focus1: function(e) {this.newtodo.focus();},
+    focus2: function(e) {e.stopPropagation();},
+
 		createOnEnter: function(e) {
 			if (e.keyCode != 13) return;
-			if (!this.input.val()) return;
+			if (!this.newtodo.val()) return;
 
-			TodoApp.Todos.create({title: this.input.val()});
-			this.input.val('');
+			TodoApp.Todos.create({title: this.newtodo.val()});
+			this.newtodo.val('');
 		},
 
 		clearCompleted: function() {
@@ -81,7 +89,7 @@ TodoApp.Views = (function(){
 
     events: {
       "click .toggle"   : "toggleDone",
-      "dblclick .view"  : "edit",
+      "click a.change"    : "edit",
       "click a.destroy" : "clear",
       "keypress .edit"  : "updateOnEnter",
       "blur .edit"      : "close"
@@ -97,7 +105,7 @@ TodoApp.Views = (function(){
 			dust.render('item.dust', this.model.toJSON(), function(err, out) {
 				that.$el.html(out);
 				that.$el.toggleClass('done', that.model.get('done'));
-				that.input = that.$('.edit');
+				that.newtodo = that.$('.edit');
 			});
       return this;
     },
@@ -108,11 +116,11 @@ TodoApp.Views = (function(){
 
     edit: function() {
       this.$el.addClass("editing");
-      this.input.focus();
+      this.newtodo.focus();
     },
 
     close: function() {
-      var value = this.input.val();
+      var value = this.newtodo.val();
       if (!value) this.clear();
       this.model.save({title: value});
       this.$el.removeClass("editing");
@@ -136,4 +144,4 @@ TodoApp.Views = (function(){
 })();
 
 App = new TodoApp.Views.AppView;
-});
+})();

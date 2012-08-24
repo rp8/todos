@@ -1,5 +1,5 @@
-    <div id="footer">
-      <div id="footer-cmd">
+    <div id="status">
+      <div id="status-cmd">
         <a id="clear-completed">Clear completed</a>
         <div id="todo-count"></div>
       </div>

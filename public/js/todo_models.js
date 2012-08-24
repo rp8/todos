@@ -1,7 +1,7 @@
 
 var TodoApp = {};
 
-$(function() {
+(function() {
 TodoApp.Models = (function(){
 
 	// generate four random hex digits.
@@ -81,5 +81,5 @@ TodoApp.Models = (function(){
 })();
 
 TodoApp.Todos = (function(){ return new TodoApp.Models.TodoList; })();
-});
+})();
 
