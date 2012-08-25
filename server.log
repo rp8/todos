@@ -11417,3 +11417,20 @@ Error: ENOENT, open '../entry.dust'
 [90mPUT /todos/d146d24a-0d45-ad23-b972-961edf1ff462 [32m200 [90m1ms - 98[0m
 [90mDELETE /todos/d146d24a-0d45-ad23-b972-961edf1ff462 [32m200 [90m1ms - 4[0m
 [90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET / [36m304 [90m51ms[0m
+[90mGET /css/todos.css [32m200 [90m3ms - 4.88kb[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m4ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m3ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
