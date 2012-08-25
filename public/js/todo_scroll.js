@@ -12,19 +12,22 @@ function loaded() {
   
   myScroll = new iScroll('wrapper', {
     zoom: false,
-    useTransition: false,
+    useTransition: true,
     topOffset: pullDownOffset,
-    onBeforeScrollSelect: function(e) {
-      var nodeType = e.explicitOriginalTarget ? e.explicitOriginalTarget.nodeName.toLowerCase() :
-        (e.target ? e.target.nodeName.toLowerCase() : ''); 
-      if (nodeType != 'select' && nodeType != 'input' && nodeType != 'textarea')
-        e.preventDefault();
-    },
     onRefresh: function () {
       if (pullDownEl.className.match('loading')) {
         pullDownEl.className = '';
         pullDownEl.querySelector('.pullDownLabel').innerHTML = 'Pull down to refresh...';
       } 
+    },
+    onBeforeScrollStart: function(e) {
+      var nodeType = e.explicitOriginalTarget ? e.explicitOriginalTarget.nodeName.toLowerCase() : 
+        (e.target ? e.target.nodeName.toLowerCase() : '');
+
+      if (nodeType != 'select' && nodeType != 'option' && nodeType != 'input'
+        && nodeType != 'textarea') {
+        e.preventDefault();
+      }
     },
     onScrollMove: function () {
       if (this.y > 5 && !pullDownEl.className.match('flip')) {
@@ -49,4 +52,4 @@ function loaded() {
   setTimeout(function () { document.getElementById('wrapper').style.left = '0'; }, 800);
 }
 
-document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
+//document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);

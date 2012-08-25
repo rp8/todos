@@ -6,8 +6,8 @@ TodoApp.Views = (function(){
 
 		events: {
 			"keypress #new-todo":  "createOnEnter",
-			"click #new-todo":  "focus1",
-			"touchstart input":  "focus2",
+			//"click #new-todo":  "focus1",
+			//"touchstart input":  "focus2",
 			"click #clear-completed": "clearCompleted",
 			"click #toggle-all": "toggleAllComplete"
 		},

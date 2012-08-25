@@ -23,11 +23,11 @@
   {>"./header.dust"/}
 
   {>"./scroller-top.dust"/}
-<div id="todoapp">
+  <div id="todoapp">
   {>"./status.dust"/}
   {>"./main.dust"/}
+  </div>
   {>"./scroller-bottom.dust"/}
-</div>
     
 
   <script src="js/item.js"></script>

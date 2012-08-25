@@ -8556,3 +8556,2864 @@ Error: ENOENT, open '../entry.dust'
 [90mGET /image/edit.jpg [36m304 [90m1ms[0m
 [90mGET /image/destroy.png [36m304 [90m1ms[0m
 [90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 2.03kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/5406378b-0f7e-e03d-504c-37f1c67ea134 [32m200 [90m1ms - 97[0m
+[90mPUT /todos/5406378b-0f7e-e03d-504c-37f1c67ea134 [32m200 [90m0ms - 96[0m
+[90mGET / [32m200 [90m69ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 2.03kb[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 241[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.82kb[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 241[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m63ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.82kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 241[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/981da411-4479-4ae9-45a2-199c11b407bf [32m200 [90m1ms - 97[0m
+[90mPUT /todos/981da411-4479-4ae9-45a2-199c11b407bf [32m200 [90m0ms - 96[0m
+[90mDELETE /todos/981da411-4479-4ae9-45a2-199c11b407bf [32m200 [90m1ms - 4[0m
+[90mDELETE /todos/5406378b-0f7e-e03d-504c-37f1c67ea134 [32m200 [90m0ms - 4[0m
+[90mPUT /todos/4cb5ac84-7d91-e4eb-533b-45951c98ff29 [32m200 [90m1ms - 100[0m
+[90mPUT /todos/4cb5ac84-7d91-e4eb-533b-45951c98ff29 [32m200 [90m1ms - 99[0m
+[90mGET / [32m200 [90m46ms - 1.56kb[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m50ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.83kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mGET / [32m200 [90m61ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [32m200 [90m1ms - 1.89kb[0m
+[90mGET /css/todos.css [32m200 [90m1ms - 5.06kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [32m200 [90m1ms - 691[0m
+[90mGET /js/stats.js [32m200 [90m1ms - 1kb[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 33.03kb[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET / [36m304 [90m47ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET / [32m200 [90m61ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m0ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m5ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m6ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.83kb[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m51ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 244[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/4cb5ac84-7d91-e4eb-533b-45951c98ff29 [32m200 [90m0ms - 99[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/4cb5ac84-7d91-e4eb-533b-45951c98ff29 [32m200 [90m0ms - 100[0m
+[90mPUT /todos/4cb5ac84-7d91-e4eb-533b-45951c98ff29 [32m200 [90m1ms - 99[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET / [32m200 [90m65ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 244[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mPUT /todos/6da49b66-4d4e-b431-7320-f4771a379ddd [32m200 [90m1ms - 97[0m
+[90mGET / [32m200 [90m61ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /css/todos.css [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 355[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 355[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m51ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.59kb[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 355[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mPUT /todos/6da49b66-4d4e-b431-7320-f4771a379ddd [32m200 [90m1ms - 96[0m
+[90mDELETE /todos/6da49b66-4d4e-b431-7320-f4771a379ddd [32m200 [90m1ms - 4[0m
+[90mDELETE /todos/4cb5ac84-7d91-e4eb-533b-45951c98ff29 [32m200 [90m1ms - 4[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mGET /todos [32m200 [90m1ms - 130[0m
+[90mGET /test.html [32m200 [90m3ms - 2.23kb[0m
+[90mGET /test.html [32m200 [90m1ms - 1.75kb[0m
+[90mGET /test.html [32m200 [90m2ms - 1.77kb[0m
+[90mGET /test.html [32m200 [90m2ms - 1.81kb[0m
+[90mGET /test.html [32m200 [90m1ms - 1.79kb[0m
+[90mGET /text.html [33m404 [90m1ms[0m
+[90mGET /test.html [32m200 [90m1ms - 1.79kb[0m
+[90mGET /test.html [32m200 [90m1ms - 1.79kb[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [32m200 [90m2ms - 1.89kb[0m
+[90mGET /css/todos.css [32m200 [90m1ms - 5.06kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 33.03kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.92kb[0m
+[90mGET /js/item.js [32m200 [90m1ms - 691[0m
+[90mGET /js/stats.js [32m200 [90m1ms - 1kb[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 130[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [32m200 [90m61ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [32m200 [90m1ms - 1.89kb[0m
+[90mGET /css/todos.css [32m200 [90m1ms - 5.06kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 33.03kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.92kb[0m
+[90mGET /js/item.js [32m200 [90m2ms - 691[0m
+[90mGET /js/stats.js [32m200 [90m1ms - 1kb[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.92kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m3ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.82kb[0m
+[90mGET /js/todo_models.js [36m304 [90m3ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m0ms - 115[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [36m304 [90m54ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.49kb[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mGET / [32m200 [90m67ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [32m200 [90m1ms - 1.89kb[0m
+[90mGET /css/todos.css [32m200 [90m1ms - 5.06kb[0m
+[90mGET /js/zepto.min.js [32m200 [90m2ms - 23.45kb[0m
+[90mGET /js/underscore-min.js [32m200 [90m1ms - 12.52kb[0m
+[90mGET /js/item.js [32m200 [90m3ms - 691[0m
+[90mGET /js/todo_views.js [32m200 [90m3ms - 3.25kb[0m
+[90mGET /js/stats.js [32m200 [90m4ms - 1kb[0m
+[90mGET /js/todo_models.js [32m200 [90m1ms - 1.53kb[0m
+[90mGET /js/backbone-min.js [32m200 [90m1ms - 16.08kb[0m
+[90mGET /js/iscroll.js [32m200 [90m2ms - 33.03kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.49kb[0m
+[90mGET /js/dust-core-1.0.0.js [32m200 [90m1ms - 16.02kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [32m200 [90m1ms - 2.13kb[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todos.css [32m200 [90m2ms - 5.06kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [32m200 [90m2ms - 12.52kb[0m
+[90mGET /js/item.js [32m200 [90m1ms - 691[0m
+[90mGET /js/stats.js [32m200 [90m2ms - 1kb[0m
+[90mGET /js/todo_models.js [32m200 [90m2ms - 1.53kb[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [32m200 [90m1ms - 23.45kb[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.49kb[0m
+[90mGET /js/iscroll.js [32m200 [90m2ms - 33.03kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m2ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [32m200 [90m1ms - 2.13kb[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m62ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m0ms - 115[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m1ms - 97[0m
+[90mGET / [36m304 [90m54ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mGET /todos [32m200 [90m0ms - 242[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m1ms - 96[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m1ms - 97[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m0ms - 96[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m0ms - 97[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m0ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m0ms - 115[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m0ms - 115[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m0ms - 97[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mGET /todos [32m200 [90m0ms - 242[0m
+[90mGET /todos [32m200 [90m0ms - 242[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mGET / [36m304 [90m64ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [32m200 [90m2ms - 5.06kb[0m
+[90mGET /js/underscore-min.js [32m200 [90m2ms - 12.52kb[0m
+[90mGET /js/backbone-min.js [32m200 [90m2ms - 16.08kb[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 33.03kb[0m
+[90mGET /js/zepto.min.js [32m200 [90m1ms - 23.45kb[0m
+[90mGET /js/dust-core-1.0.0.js [32m200 [90m1ms - 16.02kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/item.js [32m200 [90m0ms - 691[0m
+[90mGET /js/stats.js [32m200 [90m1ms - 1kb[0m
+[90mGET /js/todo_models.js [32m200 [90m1ms - 1.53kb[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.83kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 242[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m53ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.86kb[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.89kb[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 242[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m67ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.89kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 242[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m2ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m1ms - 96[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m1ms - 97[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mGET / [36m304 [90m52ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.89kb[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 242[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m1ms - 97[0m
+[90mPUT /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m0ms - 96[0m
+[90mPUT /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m2ms - 97[0m
+[90mGET / [32m200 [90m64ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 353[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m51ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m3ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m3ms - 1.88kb[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /todos [32m200 [90m1ms - 353[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m2ms - 353[0m
+[90mGET / [32m200 [90m51ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.88kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 353[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m50ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.88kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 353[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m2ms - 114[0m
+[90mGET / [36m304 [90m64ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [32m200 [90m2ms - 12.52kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.88kb[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [32m200 [90m1ms - 16.08kb[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 33.03kb[0m
+[90mGET /js/zepto.min.js [32m200 [90m1ms - 23.45kb[0m
+[90mGET /js/dust-core-1.0.0.js [32m200 [90m1ms - 16.02kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [32m200 [90m1ms - 2.13kb[0m
+[90mGET / [32m200 [90m47ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.88kb[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m52ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.88kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [32m200 [90m2ms - 1.89kb[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.88kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m63ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.91kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 352[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m55ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.91kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m1ms - 97[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET / [36m304 [90m65ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.9kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mGET / [32m200 [90m45ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.9kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m52ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m53ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [32m200 [90m82ms - 33.33kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 33.33kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m48ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 33.33kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 33.33kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m63ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m88ms - 33.33kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 352[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m51ms - 1.56kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m74ms - 33.36kb[0m
+[90mGET /todos [32m200 [90m0ms - 352[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m66ms[0m
+[90mGET /css/todos.css [36m304 [90m3ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 33.36kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [32m200 [90m80ms - 33.36kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 352[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.96kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m74ms - 33.36kb[0m
+[90mGET /todos [32m200 [90m0ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m48ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.96kb[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m1ms - 96[0m
+[90mGET / [32m200 [90m61ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.96kb[0m
+[90mGET /js/stats.js [36m304 [90m4ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 352[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m52ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m82ms - 35.28kb[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mGET / [32m200 [90m64ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m80ms - 35.28kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m51ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m3ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mGET / [32m200 [90m50ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m80ms - 35.31kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m51ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m53ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [32m200 [90m73ms - 35.31kb[0m
+[90mGET /todos [32m200 [90m1ms - 352[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m1ms - 97[0m
+[90mPUT /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m1ms - 96[0m
+[90mPUT /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m1ms - 97[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m1ms - 96[0m
+[90mPUT /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m0ms - 96[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m0ms - 97[0m
+[90mPUT /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m0ms - 97[0m
+[90mDELETE /todos/553a93a3-bd87-6d68-e808-04a1f6436165 [32m200 [90m1ms - 4[0m
+[90mDELETE /todos/90ff52c7-8edb-b0c4-da6a-c3538a87e052 [32m200 [90m1ms - 4[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mGET / [32m200 [90m61ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 130[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.96kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [32m200 [90m74ms - 35.31kb[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 130[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /js/iscroll.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 130[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 130[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m65ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 130[0m
+[90mGET /image/pull.png [36m304 [90m2ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 130[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m63ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 130[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 130[0m
+[90mGET /image/destroy.png [36m304 [90m2ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m48ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [32m200 [90m3ms - 3.25kb[0m
+[90mGET /todos [32m200 [90m0ms - 130[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mGET / [32m200 [90m58ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/edit.jpg [36m304 [90m2ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m48ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [32m200 [90m2ms - 3.25kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mPUT /todos/10b073ac-9a60-9af2-96c3-632c9fdf43dc [32m200 [90m1ms - 99[0m
+[90mPUT /todos/10b073ac-9a60-9af2-96c3-632c9fdf43dc [32m200 [90m1ms - 98[0m
+[90mGET /todos [32m200 [90m1ms - 243[0m
+[90mGET / [36m304 [90m52ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 243[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mPUT /todos/e19f9599-06c1-57de-dab5-348e8ef6be55 [32m200 [90m1ms - 99[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 356[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 356[0m
+[90mPUT /todos/e19f9599-06c1-57de-dab5-348e8ef6be55 [32m200 [90m1ms - 98[0m
+[90mGET /todos [32m200 [90m1ms - 355[0m
+[90mDELETE /todos/10b073ac-9a60-9af2-96c3-632c9fdf43dc [32m200 [90m1ms - 4[0m
+[90mDELETE /todos/e19f9599-06c1-57de-dab5-348e8ef6be55 [32m200 [90m0ms - 4[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [36m304 [90m51ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.97kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [32m200 [90m61ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.97kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m50ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m3ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m3ms - 1.97kb[0m
+[90mGET /js/todo_models.js [36m304 [90m3ms[0m
+[90mGET /js/stats.js [36m304 [90m3ms[0m
+[90mGET /js/item.js [36m304 [90m3ms[0m
+[90mGET /js/todo_views.js [32m200 [90m3ms - 3.25kb[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m71ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m0ms - 115[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m0ms - 115[0m
+[90mGET / [36m304 [90m48ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.92kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/0336e72e-421b-e916-9a14-555a859fc349 [32m200 [90m1ms - 99[0m
+[90mPUT /todos/0336e72e-421b-e916-9a14-555a859fc349 [32m200 [90m0ms - 98[0m
+[90mPUT /todos/0336e72e-421b-e916-9a14-555a859fc349 [32m200 [90m1ms - 99[0m
+[90mPUT /todos/0336e72e-421b-e916-9a14-555a859fc349 [32m200 [90m1ms - 98[0m
+[90mPUT /todos/0336e72e-421b-e916-9a14-555a859fc349 [32m200 [90m0ms - 102[0m
+[90mDELETE /todos/0336e72e-421b-e916-9a14-555a859fc349 [32m200 [90m0ms - 4[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [32m200 [90m71ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/iscroll.js [36m304 [90m3ms[0m
+[90mGET /css/todos.css [36m304 [90m4ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.92kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m51ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.92kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mGET / [36m304 [90m53ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.92kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m78ms - 35.35kb[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET / [32m200 [90m51ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [32m200 [90m78ms - 35.35kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.92kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m51ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m2ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m2ms - 131[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 35.35kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.92kb[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 2.03kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [32m200 [90m65ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 2.03kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m54ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m3ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 2.03kb[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m62ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 2.03kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m75ms - 35.35kb[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mPUT /todos/6a4a9e6a-1ba6-4500-ecb6-36d3100aa1b2 [32m200 [90m0ms - 102[0m
+[90mPUT /todos/6a4a9e6a-1ba6-4500-ecb6-36d3100aa1b2 [32m200 [90m0ms - 101[0m
+[90mDELETE /todos/6a4a9e6a-1ba6-4500-ecb6-36d3100aa1b2 [32m200 [90m0ms - 4[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m50ms - 1.56kb[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m2ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/edit.jpg [36m304 [90m2ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m52ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m64ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m50ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m51ms - 1.56kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m4ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m5ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m4ms[0m
+[90mGET /css/todos.css [36m304 [90m5ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m2ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [32m200 [90m63ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m3ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 2.03kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m52ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 2.03kb[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/c3411985-008e-c8cb-cbf0-bf29748e160a [32m200 [90m1ms - 99[0m
+[90mPUT /todos/c3411985-008e-c8cb-cbf0-bf29748e160a [32m200 [90m1ms - 103[0m
+[90mDELETE /todos/c3411985-008e-c8cb-cbf0-bf29748e160a [32m200 [90m2ms - 4[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET / [36m304 [90m50ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 2.03kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/201790c2-c563-3cd1-1bb6-f91293b74f6e [32m200 [90m1ms - 100[0m
+[90mDELETE /todos/201790c2-c563-3cd1-1bb6-f91293b74f6e [32m200 [90m0ms - 4[0m
+[90mGET / [36m304 [90m67ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.86kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m45ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m0ms - 1.86kb[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.86kb[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m50ms - 1.56kb[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m4ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/1a09b1bb-09ab-dd48-cb99-ca4e92f67dee [32m200 [90m1ms - 100[0m
+[90mGET / [32m200 [90m66ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m52ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m54ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.86kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET /image/pull.png [36m304 [90m2ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m52ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.86kb[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m47ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.86kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/1a09b1bb-09ab-dd48-cb99-ca4e92f67dee [32m200 [90m1ms - 99[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET /todos [32m200 [90m2ms - 244[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET /todos [32m200 [90m0ms - 244[0m
+[90mGET /todos [32m200 [90m1ms - 244[0m
+[90mGET / [36m304 [90m51ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.86kb[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 244[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/1a09b1bb-09ab-dd48-cb99-ca4e92f67dee [32m200 [90m1ms - 100[0m
+[90mPUT /todos/1a09b1bb-09ab-dd48-cb99-ca4e92f67dee [32m200 [90m0ms - 99[0m
+[90mPUT /todos/1a09b1bb-09ab-dd48-cb99-ca4e92f67dee [32m200 [90m0ms - 100[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [32m200 [90m80ms - 35.35kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.84kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m50ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m77ms - 35.35kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [32m200 [90m78ms - 35.34kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [32m200 [90m2ms - 1.92kb[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m63ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [32m200 [90m2ms - 1.92kb[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.84kb[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m79ms - 35.34kb[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m0ms - 115[0m
+[90mPUT /todos/1a09b1bb-09ab-dd48-cb99-ca4e92f67dee [32m200 [90m1ms - 99[0m
+[90mPUT /todos/1a09b1bb-09ab-dd48-cb99-ca4e92f67dee [32m200 [90m0ms - 100[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [32m200 [90m2ms - 1.92kb[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m63ms[0m
+[90mGET /css/todo_scroll.css [32m200 [90m2ms - 1.92kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [32m200 [90m84ms - 35.34kb[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET / [32m200 [90m47ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [32m200 [90m74ms - 35.34kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /test.html [32m200 [90m3ms - 1.79kb[0m
+[90mGET /test2.html [32m200 [90m2ms - 4.21kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /test2.html [32m200 [90m2ms - 4.21kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /test2.html [32m200 [90m1ms - 3.36kb[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /test2.html [32m200 [90m2ms - 3.32kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /test2.html [32m200 [90m1ms - 3.32kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 7.93kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /text3.html [33m404 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 7.93kb[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 35.34kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 7.79kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m2ms - 7.75kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 8.06kb[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 8kb[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 8kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 8kb[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 35.28kb[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /test3.html [32m200 [90m2ms - 8.13kb[0m
+[90mGET /js/underscore-min.js [32m200 [90m1ms - 12.52kb[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /test3.html [32m200 [90m2ms - 8.33kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.84kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m53ms[0m
+[90mGET /css/todo_scroll.css [32m200 [90m2ms - 1.92kb[0m
+[90mGET /css/todos.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m0ms[0m
+[90mGET /js/iscroll.js [32m200 [90m76ms - 35.28kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /test3.html [32m200 [90m2ms - 8.58kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [32m200 [90m79ms - 35.28kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m2ms - 7.1kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/todos.css [32m200 [90m2ms - 5kb[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /css/todo_scroll.css [32m200 [90m1ms - 1.92kb[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 7.17kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m60ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [32m200 [90m2ms - 5.01kb[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /test3.html [32m200 [90m3ms - 4.12kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET / [36m304 [90m51ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [32m200 [90m1ms - 5.01kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 245[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m2ms - 4.04kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m3ms[0m
+[90mGET /js/iscroll.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m0ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m47ms - 1.56kb[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 245[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mPUT /todos/8f41b453-9555-045a-5aab-8904c9aa78b4 [32m200 [90m1ms - 100[0m
+[90mPUT /todos/1a09b1bb-09ab-dd48-cb99-ca4e92f67dee [32m200 [90m1ms - 99[0m
+[90mPUT /todos/8f41b453-9555-045a-5aab-8904c9aa78b4 [32m200 [90m1ms - 99[0m
+[90mDELETE /todos/8f41b453-9555-045a-5aab-8904c9aa78b4 [32m200 [90m1ms - 4[0m
+[90mDELETE /todos/1a09b1bb-09ab-dd48-cb99-ca4e92f67dee [32m200 [90m0ms - 4[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mGET /test3.html [32m200 [90m3ms - 4.04kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 4.05kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /test3.html [32m200 [90m2ms - 4.03kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 4.03kb[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m1ms - 4.03kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /css/todos.css [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /test3.html [32m200 [90m2ms - 4.03kb[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 131[0m
+[90mGET /todos [32m200 [90m0ms - 131[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 114[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m1ms - 115[0m
+[90mPUT /todos/f6808813-3fb5-1177-dab9-e534c1b05a60 [32m200 [90m0ms - 104[0m
+[90mPUT /todos/6950bafd-a868-baf0-de5e-dfc5defac25b [32m200 [90m0ms - 102[0m
+[90mPUT /todos/4dce6f92-8e5b-d2c5-ff5c-fc556f06afcb [32m200 [90m2ms - 100[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 479[0m
+[90mPUT /todos/c90f700b-a1a2-1ff7-83ef-dc9e4860a3be [32m200 [90m1ms - 102[0m
+[90mPUT /todos/808962c8-0a6a-a3fa-2ba3-109381d72258 [32m200 [90m1ms - 102[0m
+[90mPUT /todos/0e55df34-8ef8-a3ee-32bd-a06e309e1f9f [32m200 [90m5ms - 100[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [32m200 [90m1ms - 691[0m
+[90mGET /js/stats.js [32m200 [90m1ms - 1kb[0m
+[90mGET /js/zepto.min.js [32m200 [90m1ms - 23.45kb[0m
+[90mGET /js/stats.js [32m200 [90m1ms - 1kb[0m
+[90mGET /js/todo_models.js [32m200 [90m1ms - 1.53kb[0m
+[90mGET /js/backbone-min.js [32m200 [90m1ms - 16.08kb[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 35.28kb[0m
+[90mGET /js/dust-core-1.0.0.js [32m200 [90m1ms - 16.02kb[0m
+[90mGET /js/todo_scroll.js [32m200 [90m0ms - 1.84kb[0m
+[90mGET /js/todo_views.js [32m200 [90m1ms - 3.25kb[0m
+[90mGET /todos [32m200 [90m1ms - 825[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m1ms[0m
+[90mPUT /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m4ms - 114[0m
+[90mPUT /todos/4dce6f92-8e5b-d2c5-ff5c-fc556f06afcb [32m200 [90m4ms - 99[0m
+[90mPUT /todos/f6808813-3fb5-1177-dab9-e534c1b05a60 [32m200 [90m12ms - 103[0m
+[90mPUT /todos/6950bafd-a868-baf0-de5e-dfc5defac25b [32m200 [90m8ms - 101[0m
+[90mPUT /todos/c90f700b-a1a2-1ff7-83ef-dc9e4860a3be [32m200 [90m4ms - 101[0m
+[90mPUT /todos/808962c8-0a6a-a3fa-2ba3-109381d72258 [32m200 [90m0ms - 101[0m
+[90mPUT /todos/0e55df34-8ef8-a3ee-32bd-a06e309e1f9f [32m200 [90m1ms - 99[0m
+[90mDELETE /todos/b37dd1c5-de3f-9a9b-af19-878217174cad [32m200 [90m2ms - 4[0m
+[90mDELETE /todos/f6808813-3fb5-1177-dab9-e534c1b05a60 [32m200 [90m1ms - 4[0m
+[90mDELETE /todos/6950bafd-a868-baf0-de5e-dfc5defac25b [32m200 [90m1ms - 4[0m
+[90mDELETE /todos/4dce6f92-8e5b-d2c5-ff5c-fc556f06afcb [32m200 [90m0ms - 4[0m
+[90mDELETE /todos/c90f700b-a1a2-1ff7-83ef-dc9e4860a3be [32m200 [90m1ms - 4[0m
+[90mDELETE /todos/808962c8-0a6a-a3fa-2ba3-109381d72258 [32m200 [90m0ms - 4[0m
+[90mDELETE /todos/0e55df34-8ef8-a3ee-32bd-a06e309e1f9f [32m200 [90m0ms - 4[0m
+[90mPUT /todos/ff0c671a-e7e9-2f80-371a-e5337866f349 [32m200 [90m1ms - 109[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m0ms - 125[0m
+[90mGET /todos [32m200 [90m0ms - 125[0m
+[90mGET /todos [32m200 [90m0ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m0ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /todos [32m200 [90m0ms - 125[0m
+[90mGET / [32m200 [90m50ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 125[0m
+[90mPUT /todos/f3af56b8-9297-7bec-7e2b-b671fa004444 [32m200 [90m1ms - 97[0m
+[90mGET /todos [32m200 [90m1ms - 236[0m
+[90mPUT /todos/f3af56b8-9297-7bec-7e2b-b671fa004444 [32m200 [90m0ms - 96[0m
+[90mGET /todos [32m200 [90m1ms - 235[0m
+[90mDELETE /todos/f3af56b8-9297-7bec-7e2b-b671fa004444 [32m200 [90m0ms - 4[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET / [32m200 [90m49ms - 1.56kb[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 125[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m2ms[0m
+[90mGET /css/todos.css [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /image/apple-touch-icon.png [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m48ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /css/todos.css [32m200 [90m3ms - 4.98kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m0ms[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 125[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m52ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [32m200 [90m3ms - 4.99kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m3ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /image/destroy.png [36m304 [90m2ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m63ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [32m200 [90m1ms - 4.97kb[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m47ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [32m200 [90m2ms - 4.97kb[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 125[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m64ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /css/todos.css [32m200 [90m2ms - 4.98kb[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m0ms - 125[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mPUT /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m1ms - 99[0m
+[90mPUT /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m1ms - 99[0m
+[90mPUT /todos/ff0c671a-e7e9-2f80-371a-e5337866f349 [32m200 [90m5ms - 108[0m
+[90mPUT /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m1ms - 98[0m
+[90mPUT /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m4ms - 98[0m
+[90mPUT /todos/ff0c671a-e7e9-2f80-371a-e5337866f349 [32m200 [90m1ms - 109[0m
+[90mPUT /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m1ms - 99[0m
+[90mPUT /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m4ms - 99[0m
+[90mGET /todos [32m200 [90m1ms - 351[0m
+[90mGET /todos [32m200 [90m1ms - 351[0m
+[90mGET / [32m200 [90m50ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /css/todos.css [32m200 [90m3ms - 4.95kb[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m3ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m2ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m2ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 351[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 351[0m
+[90mGET /todos [32m200 [90m1ms - 351[0m
+[90mPUT /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m1ms - 98[0m
+[90mPUT /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m0ms - 99[0m
+[90mGET /todos [32m200 [90m0ms - 351[0m
+[90mGET /todos [32m200 [90m1ms - 351[0m
+[90mPUT /todos/ff0c671a-e7e9-2f80-371a-e5337866f349 [32m200 [90m0ms - 108[0m
+[90mPUT /todos/ff0c671a-e7e9-2f80-371a-e5337866f349 [32m200 [90m0ms - 109[0m
+[90mGET /todos [32m200 [90m1ms - 351[0m
+[90mGET / [32m200 [90m62ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [32m200 [90m2ms - 1.92kb[0m
+[90mGET /css/todos.css [32m200 [90m2ms - 4.95kb[0m
+[90mGET /js/underscore-min.js [32m200 [90m1ms - 12.52kb[0m
+[90mGET /js/zepto.min.js [32m200 [90m0ms - 23.45kb[0m
+[90mGET /js/item.js [32m200 [90m2ms - 691[0m
+[90mGET /js/stats.js [32m200 [90m0ms - 1kb[0m
+[90mGET /js/todo_models.js [32m200 [90m1ms - 1.53kb[0m
+[90mGET /js/todo_views.js [36m304 [90m0ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m0ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m1ms - 1.84kb[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 35.28kb[0m
+[90mGET /image/pull.png [32m200 [90m0ms - 850[0m
+[90mGET /todos [32m200 [90m1ms - 351[0m
+[90mGET /image/destroy.png [32m200 [90m2ms - 555[0m
+[90mGET /image/edit.jpg [32m200 [90m1ms - 2.13kb[0m
+[90mGET /image/apple-touch-icon.png [32m200 [90m2ms - 617[0m
+[90mGET /todos [32m200 [90m1ms - 351[0m
+[90mPUT /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m1ms - 98[0m
+[90mPUT /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m0ms - 98[0m
+[90mPUT /todos/ff0c671a-e7e9-2f80-371a-e5337866f349 [32m200 [90m1ms - 108[0m
+[90mPUT /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m4ms - 98[0m
+[90mPUT /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m9ms - 98[0m
+[90mPUT /todos/ff0c671a-e7e9-2f80-371a-e5337866f349 [32m200 [90m4ms - 109[0m
+[90mPUT /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m1ms - 99[0m
+[90mPUT /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m0ms - 99[0m
+[90mPUT /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m4ms - 98[0m
+[90mPUT /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m4ms - 99[0m
+[90mPUT /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m1ms - 98[0m
+[90mPUT /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m1ms - 98[0m
+[90mDELETE /todos/3d1c8f12-16a2-61b0-61d5-c4113e0649e8 [32m200 [90m1ms - 4[0m
+[90mDELETE /todos/4744875c-f1d9-ecb0-15bd-348da978c971 [32m200 [90m2ms - 4[0m
+[90mPUT /todos/ff0c671a-e7e9-2f80-371a-e5337866f349 [32m200 [90m0ms - 108[0m
+[90mDELETE /todos/ff0c671a-e7e9-2f80-371a-e5337866f349 [32m200 [90m1ms - 4[0m
+[90mPUT /todos/65bdcb69-ccc3-f380-36a3-31ed098e16aa [32m200 [90m4ms - 105[0m
+[90mPUT /todos/10ca1dfa-21c3-2233-f857-5539493856ba [32m200 [90m1ms - 102[0m
+[90mPUT /todos/cd25f330-0114-e72e-8042-3c84a403c128 [32m200 [90m4ms - 102[0m
+[90mPUT /todos/1fd2304c-836e-fe58-2e4c-e7989a3b53e2 [32m200 [90m4ms - 99[0m
+[90mPUT /todos/1fd2304c-836e-fe58-2e4c-e7989a3b53e2 [32m200 [90m4ms - 98[0m
+[90mPUT /todos/cd25f330-0114-e72e-8042-3c84a403c128 [32m200 [90m1ms - 101[0m
+[90mPUT /todos/10ca1dfa-21c3-2233-f857-5539493856ba [32m200 [90m1ms - 101[0m
+[90mPUT /todos/65bdcb69-ccc3-f380-36a3-31ed098e16aa [32m200 [90m4ms - 104[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET /todos [32m200 [90m0ms - 462[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET /todos [32m200 [90m0ms - 462[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET / [32m200 [90m47ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [36m304 [90m1ms[0m
+[90mGET /css/todos.css [32m200 [90m1ms - 4.95kb[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m2ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 462[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m50ms - 1.56kb[0m
+[90mGET /js/zepto.min.js [36m304 [90m3ms[0m
+[90mGET /js/underscore-min.js [36m304 [90m2ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m3ms[0m
+[90mGET /css/todo_scroll.css [36m304 [90m3ms[0m
+[90mGET /css/todos.css [32m200 [90m3ms - 4.88kb[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [36m304 [90m1ms[0m
+[90mGET /js/item.js [36m304 [90m1ms[0m
+[90mGET /js/todo_scroll.js [36m304 [90m0ms[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m1ms[0m
+[90mGET /js/todo_views.js [36m304 [90m1ms[0m
+[90mGET /image/pull.png [36m304 [90m0ms[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET /image/destroy.png [36m304 [90m1ms[0m
+[90mGET /image/edit.jpg [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m0ms - 462[0m
+[90mGET /todos [32m200 [90m0ms - 462[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET / [32m200 [90m68ms - 1.56kb[0m
+[90mGET /css/todo_scroll.css [32m200 [90m1ms - 1.92kb[0m
+[90mGET /css/todos.css [32m200 [90m1ms - 4.88kb[0m
+[90mGET /js/underscore-min.js [36m304 [90m0ms[0m
+[90mGET /js/zepto.min.js [36m304 [90m1ms[0m
+[90mGET /js/dust-core-1.0.0.js [36m304 [90m1ms[0m
+[90mGET /js/backbone-min.js [36m304 [90m1ms[0m
+[90mGET /js/iscroll.js [32m200 [90m1ms - 35.28kb[0m
+[90mGET /js/stats.js [36m304 [90m1ms[0m
+[90mGET /js/todo_models.js [36m304 [90m2ms[0m
+[90mGET /js/item.js [36m304 [90m2ms[0m
+[90mGET /js/todo_scroll.js [32m200 [90m2ms - 1.84kb[0m
+[90mGET /js/todo_views.js [32m200 [90m0ms - 3.25kb[0m
+[90mGET /image/pull.png [36m304 [90m1ms[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
+[90mGET /image/destroy.png [36m304 [90m0ms[0m
+[90mGET /image/edit.jpg [36m304 [90m0ms[0m
+[90mPUT /todos/d146d24a-0d45-ad23-b972-961edf1ff462 [32m200 [90m2ms - 99[0m
+[90mPUT /todos/d146d24a-0d45-ad23-b972-961edf1ff462 [32m200 [90m1ms - 98[0m
+[90mDELETE /todos/d146d24a-0d45-ad23-b972-961edf1ff462 [32m200 [90m1ms - 4[0m
+[90mGET /todos [32m200 [90m1ms - 462[0m
