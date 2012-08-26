@@ -52,4 +52,4 @@ function loaded() {
   setTimeout(function () { document.getElementById('wrapper').style.left = '0'; }, 800);
 }
 
-//document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
+document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);

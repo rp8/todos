@@ -1,7 +1,10 @@
 
     <div id="main">
       {>"./entry.dust"/}
-      <input id="toggle-all" type="checkbox">
+      <input id="toggle-all" type="checkbox" class="custom">
       <label for="toggle-all">Mark all as completed</label>
       <ul id="todo-list"></ul>
+      <div data-role="popup" id="popupEdit">
+      edit
+      </div>
     </div>

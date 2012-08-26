@@ -1,2 +1,4 @@
 dustc item.dust public/js/item.js
+dustc item-edit.dust public/js/item-edit.js
 dustc stats.dust public/js/stats.js
+cat public/js/todo-scroll.js public/js/item-edit.js public/js/item.js public/js/stats.js public/js/todo-models.js public/js/todo-views.js | uglifyjs -o public/js/todo.min.js

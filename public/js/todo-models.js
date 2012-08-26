@@ -1,10 +1,9 @@
 
-var TodoApp = {};
+var TodoApp = TodoApp || {};
 
 (function() {
 TodoApp.Models = (function(){
-
-	// generate four random hex digits.
+// generate four random hex digits.
 	function S4() {
 		 return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
 	};

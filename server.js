@@ -15,7 +15,7 @@ app.configure(function(){
   app.set('views', __dirname + '/');
   app.set('view engine', 'dust');
   app.use(express.favicon());
-  app.use(express.logger('dev'));
+  app.use(express.logger('short'));
   app.use(express.bodyParser());
   app.use(express.methodOverride());
   app.use(express.cookieParser('your secret here'));

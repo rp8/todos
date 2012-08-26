@@ -2,6 +2,5 @@
   <input id="c_{id}" class="toggle" type="checkbox" {#done} checked="checked" {:else} "" {/done} />
   <label for="c_{id}">{title}</label>
   <a class="destroy"></a>
-  <a class="change"></a>
+  <a class="edit"></a>
 </div>
-<input class="edit" type="text" value="{title}" />

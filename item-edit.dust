@@ -1,0 +1,2 @@
+<input type="text" value="{title}" />
+<a clsss="save">Save</a>

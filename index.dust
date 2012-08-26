@@ -7,16 +7,22 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <title>TODOs</title>
-  <link rel="stylesheet" href="css/todo_scroll.css"/>
+  <link rel="stylesheet" href="css/todo-scroll.css"/>
   <link rel="stylesheet" href="css/todos.css"/>
+  <!--
+  <link rel="stylesheet" href="css/todo-scroll.css"/>
+  <link rel="stylesheet" href="css/todos.css"/>
+  -->
   <link rel="icon" type=image/png" href="image/apple-touch-icon.png"/>
-	<link rel="apple-touch-icon" href="image/apple-touch-icon.png"/>
+  <link rel="apple-touch-icon" href="image/apple-touch-icon.png"/>
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.css" />
+  <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+  <script src="http://code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.js"></script>
   <script src="js/underscore-min.js"></script>
-  <script src="js/zepto.min.js"></script>
+  <!--<script src="js/zepto.min.js"></script>-->
   <script src="js/backbone-min.js"></script>
   <script src="js/dust-core-1.0.0.js"></script>
   <script src="js/iscroll.js"></script>
-  <script src="js/todo_scroll.js"></script>
 </head>
 
 <body>
@@ -29,11 +35,16 @@
   </div>
   {>"./scroller-bottom.dust"/}
     
-
+  <!--
+  <script src="js/todo.min.js"></script>
+    -->
+  
   <script src="js/item.js"></script>
+  <script src="js/item-edit.js"></script>
   <script src="js/stats.js"></script>
-  <script src="js/todo_models.js"></script>
-  <script src="js/todo_views.js"></script>
+  <script src="js/todo-models.js"></script>
+  <script src="js/todo-views.js"></script>
+  <script src="js/todo-scroll.js"></script>
   <script>
     loaded();
   </script>

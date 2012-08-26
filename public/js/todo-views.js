@@ -1,3 +1,4 @@
+var TodoApp = TodoApp || {};
 (function() {
 TodoApp.Views = (function(){
   var AppView = Backbone.View.extend({
@@ -5,11 +6,9 @@ TodoApp.Views = (function(){
 		el: $("#todoapp"),
 
 		events: {
-			"keypress #new-todo":  "createOnEnter",
-			//"click #new-todo":  "focus1",
-			//"touchstart input":  "focus2",
+			"keypress #new-todo"    : "createOnEnter",
 			"click #clear-completed": "clearCompleted",
-			"click #toggle-all": "toggleAllComplete"
+			"change #toggle-all"     : "toggleAllComplete"
 		},
 
     initialize: function() {
@@ -60,9 +59,6 @@ TodoApp.Views = (function(){
 			TodoApp.Todos.each(this.addOne);
 		},
 
-    focus1: function(e) {this.newtodo.focus();},
-    focus2: function(e) {e.stopPropagation();},
-
 		createOnEnter: function(e) {
 			if (e.keyCode != 13) return;
 			if (!this.newtodo.val()) return;
@@ -89,10 +85,8 @@ TodoApp.Views = (function(){
 
     events: {
       "click .toggle"   : "toggleDone",
-      "click a.change"    : "edit",
+      "click a.edit"    : "edit",
       "click a.destroy" : "clear",
-      "keypress .edit"  : "updateOnEnter",
-      "blur .edit"      : "close"
     },
 
     initialize: function() {
@@ -105,7 +99,6 @@ TodoApp.Views = (function(){
 			dust.render('item.dust', this.model.toJSON(), function(err, out) {
 				that.$el.html(out);
 				that.$el.toggleClass('done', that.model.get('done'));
-				that.newtodo = that.$('.edit');
 			});
       return this;
     },
@@ -114,20 +107,53 @@ TodoApp.Views = (function(){
       this.model.toggle();
     },
 
-    edit: function() {
-      this.$el.addClass("editing");
-      this.newtodo.focus();
+    edit: function(e) {
+      var view = new TodoEditView({model: this.model});
+      $('#popupEdit').html(view.render().el).popup('open');
     },
 
-    close: function() {
-      var value = this.newtodo.val();
+    clear: function() {
+      this.model.clear();
+    }
+
+  });
+
+  var TodoEditView = Backbone.View.extend({
+    events: {
+      "click a"    : "save",
+      "keypress input"  : "updateOnEnter"
+    },
+
+    initialize: function() {
+
+    },
+
+    render: function() {
+		  var that = this;
+			dust.render('item-edit.dust', this.model.toJSON(), function(err, templ) {
+				that.$el.html(templ);
+			});
+      return this;
+    },
+
+    focus: function() {
+      this.$('input[type=text]').focus();
+    },
+
+    save: function() {
+      this.input = this.$('input[type=text]');
+      var value = this.input.val();
       if (!value) this.clear();
       this.model.save({title: value});
-      this.$el.removeClass("editing");
+      this.close();
     },
 
     updateOnEnter: function(e) {
-      if (e.keyCode == 13) this.close();
+      if (e.keyCode == 13) this.save();
+    },
+
+    close: function() {
+      $('#popupEdit').popup('close');
     },
 
     clear: function() {
@@ -138,7 +164,8 @@ TodoApp.Views = (function(){
 
 	return {
 		AppView: AppView,
-		TodoView: TodoView
+		TodoView: TodoView,
+    TodoEditView: TodoEditView
   };
 
 })();
