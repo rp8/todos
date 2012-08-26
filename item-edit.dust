@@ -1,2 +1,2 @@
 <input type="text" value="{title}" />
-<a clsss="save">Save</a>
+<a class="save">Save</a>

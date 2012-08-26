@@ -109,7 +109,7 @@ TodoApp.Views = (function(){
 
     edit: function(e) {
       var view = new TodoEditView({model: this.model});
-      $('#popupEdit').html(view.render().el).popup('open');
+      $('#popupEdit').html(view.render().el).popup('open', {x:10, y:10});
     },
 
     clear: function() {
