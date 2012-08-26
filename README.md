@@ -15,7 +15,9 @@ TODOs - Backbone/Dust client side template with server REST api and based on htt
 *	backbone
 *	dustjs-linkedin
 *	jquery
+* jquery mobile
 * iscroll
+* uglify-js
 
 ### Compile dust templates
 
