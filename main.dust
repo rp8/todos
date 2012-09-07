@@ -4,7 +4,7 @@
       <input id="toggle-all" type="checkbox" class="custom">
       <label for="toggle-all">Mark all as completed</label>
       <ul id="todo-list"></ul>
-      <div data-role="popup" id="popupEdit">
+      <div data-role="popup" id="popupEdit" class="ui-content">
       edit
       </div>
     </div>

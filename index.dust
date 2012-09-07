@@ -9,17 +9,12 @@
   <title>TODOs</title>
   <link rel="stylesheet" href="css/todo-scroll.css"/>
   <link rel="stylesheet" href="css/todos.css"/>
-  <!--
-  <link rel="stylesheet" href="css/todo-scroll.css"/>
-  <link rel="stylesheet" href="css/todos.css"/>
-  -->
   <link rel="icon" type=image/png" href="image/apple-touch-icon.png"/>
   <link rel="apple-touch-icon" href="image/apple-touch-icon.png"/>
-  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.css" />
+  <link rel="stylesheet" href="css/jquery.mobile-1.2.0-beta.1.css" />
   <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-  <script src="http://code.jquery.com/mobile/1.2.0-alpha.1/jquery.mobile-1.2.0-alpha.1.min.js"></script>
+  <script src="js/jquery.mobile-1.2.0-beta.1.js"></script>
   <script src="js/underscore-min.js"></script>
-  <!--<script src="js/zepto.min.js"></script>-->
   <script src="js/backbone-min.js"></script>
   <script src="js/dust-core-1.0.0.js"></script>
   <script src="js/iscroll.js"></script>
@@ -35,10 +30,6 @@
   </div>
   {>"./scroller-bottom.dust"/}
     
-  <!--
-  <script src="js/todo.min.js"></script>
-    -->
-  
   <script src="js/item.js"></script>
   <script src="js/item-edit.js"></script>
   <script src="js/stats.js"></script>
