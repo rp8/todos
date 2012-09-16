@@ -7,13 +7,13 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <title>TODOs</title>
-  <link rel="stylesheet" href="css/todo-scroll.css"/>
   <link rel="stylesheet" href="css/todos.css"/>
+  <link rel="stylesheet" href="css/scroller.css"/>
   <link rel="icon" type=image/png" href="image/apple-touch-icon.png"/>
   <link rel="apple-touch-icon" href="image/apple-touch-icon.png"/>
-  <link rel="stylesheet" href="css/jquery.mobile-1.2.0-beta.1.css" />
+  <link rel="stylesheet" href="css/jquery.mobile-1.2.0-rc.1.css" />
   <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-  <script src="js/jquery.mobile-1.2.0-beta.1.js"></script>
+  <script src="js/jquery.mobile-1.2.0-rc.1.js"></script>
   <script src="js/underscore-min.js"></script>
   <script src="js/backbone-min.js"></script>
   <script src="js/dust-core-1.0.0.js"></script>
@@ -23,12 +23,18 @@
 <body>
   {>"./header.dust"/}
 
-  {>"./scroller-top.dust"/}
-  <div id="todoapp">
-  {>"./status.dust"/}
-  {>"./main.dust"/}
+  <div id="wrapper">
+    <div id="scroller">
+      <div id="pullDown">
+        <span class="pullDownIcon"></span>
+        <span class="pullDownLabel"></span>
+      </div>
+      <div id="todoapp">
+        {>"./status.dust"/}
+        {>"./main.dust"/}
+      </div>
+    </div>
   </div>
-  {>"./scroller-bottom.dust"/}
     
   <script src="js/item.js"></script>
   <script src="js/item-edit.js"></script>
@@ -36,9 +42,5 @@
   <script src="js/todo-models.js"></script>
   <script src="js/todo-views.js"></script>
   <script src="js/todo-scroll.js"></script>
-  <script>
-    loaded();
-  </script>
-
 </body>
 </html>

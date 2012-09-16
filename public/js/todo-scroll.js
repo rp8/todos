@@ -1,17 +1,13 @@
-var myScroll, pullDownEl, pullDownOffset;
 
-function pullDownAction () {
-  App.refresh(function() {
-    myScroll.refresh();  
-  });
-}
+var myScroll,
+  pullDownEl, pullDownOffset,
+  generatedCount = 0;
 
 function loaded() {
   pullDownEl = document.getElementById('pullDown');
   pullDownOffset = pullDownEl.offsetHeight;
   
   myScroll = new iScroll('wrapper', {
-    zoom: false,
     useTransition: true,
     topOffset: pullDownOffset,
     onRefresh: function () {
@@ -44,8 +40,12 @@ function loaded() {
       if (pullDownEl.className.match('flip')) {
         pullDownEl.className = 'loading';
         pullDownEl.querySelector('.pullDownLabel').innerHTML = 'Loading...';        
-        pullDownAction(); 
-      }
+        setTimeout(function () {  
+          App.refresh(function() {
+            myScroll.refresh();   
+          });
+        }, 10); 
+      } 
     }
   });
   
@@ -53,3 +53,4 @@ function loaded() {
 }
 
 document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
+document.addEventListener('DOMContentLoaded', function () { setTimeout(loaded, 200); }, false);
